@@ -3,12 +3,14 @@
 Nice, that you found my profile.
 
 You may ask yourself, who is this handsome coder?
+
 I am Alex, born in '02 in Germany and working in IT since 2021.
 
 And what is he working with? <br>
 ## Frontend
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+
 ## Backend
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ## Data
